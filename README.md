@@ -4,7 +4,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endeyexe&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endeyexe&hide=javascript,css,scss,html&theme=dark)
 
 <!---
 Endeyexe/Endeyexe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
